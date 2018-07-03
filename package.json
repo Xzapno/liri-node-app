@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Liri App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xzapno/liri-node-app.git"
+  },
+  "keywords": [
+    "Liri"
+  ],
+  "author": "Paul Hoffman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xzapno/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Xzapno/liri-node-app#readme"
+}
